@@ -1,8 +1,4 @@
----
-tags: tdd
-level: 2
-type: stay-fresh
----
+
 ##Stay Fresh on your TDD
 <img src="https://s3.amazonaws.com/after-school-assets/fresh.jpeg" width="300" align="right" hspace="10"> Want to keep up your TDD chops? Here are a few activities and problems you can work on:
 
